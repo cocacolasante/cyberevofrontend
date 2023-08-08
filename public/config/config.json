@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x984bc699Bb933a683083e9Da0800A0E7Dd257DD7",
+  "SCAN_LINK": "https://goerli.arbiscan.io/address/0x984bc699Bb933a683083e9Da0800A0E7Dd257DD7",
+  "NETWORK": {
+    "NAME": "Arbitrum testnet",
+    "SYMBOL": "AEth",
+    "ID": 137
+  },
+  "NFT_NAME": "CyberEvo",
+  "SYMBOL": "CBE",
+  "MAX_SUPPLY": 336,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
