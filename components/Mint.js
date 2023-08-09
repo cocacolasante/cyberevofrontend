@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from "react";
-import * as s from "./styles/globalStyles";
+import * as s from "./styles/globalStyles.js";
 import styled from "styled-components";
 import contractAbi from "../public/config/abi.json"
 import { ethers } from "ethers";
