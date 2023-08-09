@@ -1,13 +1,14 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+import favicon from "./favicon.ico"
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Hashlips Minting Dapp Nextjs',
-  description: 'Minting Dapp ported to nextjs',
+  title: 'CyberEvo Coders',
+  description: 'Minting Dapp for CyberEvo coders',
   icons:{
-    icon: "./favicon.ico"
+    icon: favicon
   }
 }
 
