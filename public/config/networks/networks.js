@@ -10,7 +10,8 @@ const networks = {
     "0x13881": "Polygon Mumbai Testnet",
     "0xa86a": "AVAX Mainnet",
     "0x504": "Hardhat Testnet",
-    "0x66eed": "Arbitrum Goerli"
+    "0x66eed": "Arbitrum Goerli",
+    "0xa4b1": "Arbitrum"
   }
   
   export { networks };

@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0x6106Aa44794e001bDB069c98D814AE9597e86E63",
-  "SCAN_LINK": "https://goerli.arbiscan.io/address/0x984bc699Bb933a683083e9Da0800A0E7Dd257DD7",
+  "SCAN_LINK": "https://arbiscan.io/address/0x984bc699Bb933a683083e9Da0800A0E7Dd257DD7",
   "NETWORK": {
-    "NAME": "Arbitrum testnet",
-    "SYMBOL": "AEth",
-    "ID": 137
+    "NAME": "Arbitrum",
+    "SYMBOL": "Eth",
+    "ID": 42161
   },
   "NFT_NAME": "CyberEvo",
   "SYMBOL": "CBE",
