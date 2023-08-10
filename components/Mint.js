@@ -107,11 +107,11 @@ function Mint() {
   // this is where i add in my smart contract data
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "0x6106Aa44794e001bDB069c98D814AE9597e86E63",
-    SCAN_LINK: "https://arbiscan.io/address/0x984bc699Bb933a683083e9Da0800A0E7Dd257DD7",
+    SCAN_LINK: "https://polygonscan.com/address/0x6106Aa44794e001bDB069c98D814AE9597e86E63",
     NETWORK: {
-      NAME: "Arbitrum",
-      SYMBOL: "Eth",
-      ID: 42161,
+      NAME: "Polygon",
+      SYMBOL: "Matic",
+      ID: 137,
     },
     NFT_NAME: "CyberEvo",
     SYMBOL: "CBE",
@@ -221,8 +221,8 @@ function Mint() {
         window.location.reload();
     }
 
-    if(networks[chainId] !== "Arbitrum"){
-      alert("Please change network to Arbitrum")
+    if(networks[chainId] !== "Polygon Mainnet"){
+      alert("Please change network to Polygon")
     }
 
 
